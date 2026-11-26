@@ -1,0 +1,22 @@
+
+# Pretrained and fine-tuned models
+bert_ticket_classifier/
+my_finetuned_roberta/
+
+# Training checkpoints and results
+bert_ticket_results/
+roberta_imdb_results/
+
+# Model files
+*.safetensors
+*.pt
+*.pth
+*.bin
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
